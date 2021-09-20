@@ -1,0 +1,45 @@
+html,
+body {
+    height: 100%;
+}
+
+#header-nav {
+    border-radius: 0;
+    border: 0;
+    margin-bottom: 0;
+}
+
+.navbar-brand h1 {
+    font-size: 1em;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+#nav-list {
+    background-color: #FFF;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.item-divider {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+#main-title {
+    font-size: 2em;
+    font-style: oblique;
+}
+
+#section-container {
+    background-color: #d4ebf2;
+   height: 100vh;
+}
+
+#section-title {
+    text-align: center;
+}
+
+#main-section {
+    padding: 20px;
+}
